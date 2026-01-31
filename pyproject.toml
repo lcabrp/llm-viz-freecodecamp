@@ -1,0 +1,14 @@
+[project]
+name = "llm-viz-freecodecamp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "notebook>=7.3.2",
+    "matplotlib>=3.10.8",
+    "scikit-learn>=1.8.0",
+    "torch>=2.10.0",
+    "transformers>=5.0.0",
+]
